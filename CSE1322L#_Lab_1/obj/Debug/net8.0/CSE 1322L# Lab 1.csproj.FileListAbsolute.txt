@@ -1,0 +1,28 @@
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/bin/Debug/net8.0/CSE 1322L# Lab 1
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/bin/Debug/net8.0/CSE 1322L# Lab 1.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/bin/Debug/net8.0/CSE 1322L# Lab 1.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/bin/Debug/net8.0/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/bin/Debug/net8.0/CSE 1322L# Lab 1.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/refint/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/CSE 1322L# Lab 1.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE 1322L# Lab 1/obj/Debug/net8.0/ref/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/bin/Debug/net8.0/CSE 1322L# Lab 1
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/bin/Debug/net8.0/CSE 1322L# Lab 1.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/bin/Debug/net8.0/CSE 1322L# Lab 1.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/bin/Debug/net8.0/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/bin/Debug/net8.0/CSE 1322L# Lab 1.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/refint/CSE 1322L# Lab 1.dll
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/CSE 1322L# Lab 1.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/CSE1322L#_Lab_1/obj/Debug/net8.0/ref/CSE 1322L# Lab 1.dll

@@ -1,0 +1,14 @@
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/bin/Debug/net8.0/Lab6
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/bin/Debug/net8.0/Lab6.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/bin/Debug/net8.0/Lab6.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/bin/Debug/net8.0/Lab6.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/bin/Debug/net8.0/Lab6.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/refint/Lab6.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/Lab6.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Lab6/obj/Debug/net8.0/ref/Lab6.dll

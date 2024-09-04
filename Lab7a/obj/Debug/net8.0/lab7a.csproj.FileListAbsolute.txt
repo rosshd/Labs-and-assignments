@@ -1,0 +1,14 @@
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/bin/Debug/net8.0/lab7a
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/bin/Debug/net8.0/lab7a.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/bin/Debug/net8.0/lab7a.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/bin/Debug/net8.0/lab7a.dll
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/bin/Debug/net8.0/lab7a.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.dll
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/refint/lab7a.dll
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/lab7a.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/lab7a/obj/Debug/net8.0/ref/lab7a.dll
