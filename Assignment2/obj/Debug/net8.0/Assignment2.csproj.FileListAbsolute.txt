@@ -1,0 +1,14 @@
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/bin/Debug/net8.0/Assignment2
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/bin/Debug/net8.0/Assignment2.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/bin/Debug/net8.0/Assignment2.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/bin/Debug/net8.0/Assignment2.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/bin/Debug/net8.0/Assignment2.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/refint/Assignment2.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/Assignment2.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Assignment2/obj/Debug/net8.0/ref/Assignment2.dll
