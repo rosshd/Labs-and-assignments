@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rossdawson/Desktop/ross projects/classWork/BankAccount/Lab4.csproj": {}
+    "/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/MediaCodec.csproj": {}
   },
   "projects": {
-    "/Users/rossdawson/Desktop/ross projects/classWork/BankAccount/Lab4.csproj": {
+    "/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/MediaCodec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rossdawson/Desktop/ross projects/classWork/BankAccount/Lab4.csproj",
-        "projectName": "Lab4",
-        "projectPath": "/Users/rossdawson/Desktop/ross projects/classWork/BankAccount/Lab4.csproj",
+        "projectUniqueName": "/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/MediaCodec.csproj",
+        "projectName": "MediaCodec",
+        "projectPath": "/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/MediaCodec.csproj",
         "packagesPath": "/Users/rossdawson/.nuget/packages/",
-        "outputPath": "/Users/rossdawson/Desktop/ross projects/classWork/BankAccount/obj/",
+        "outputPath": "/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rossdawson/.nuget/NuGet/NuGet.Config"

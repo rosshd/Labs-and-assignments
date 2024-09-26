@@ -26,3 +26,4 @@
 /Users/rossdawson/Desktop/ross projects/classWork/Test Project/obj/Debug/net8.0/classWork.pdb
 /Users/rossdawson/Desktop/ross projects/classWork/Test Project/obj/Debug/net8.0/classWork.genruntimeconfig.cache
 /Users/rossdawson/Desktop/ross projects/classWork/Test Project/obj/Debug/net8.0/ref/classWork.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Test Project/obj/Debug/net8.0/classWork.sourcelink.json

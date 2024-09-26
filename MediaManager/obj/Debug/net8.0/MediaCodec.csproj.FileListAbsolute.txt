@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/bin/Debug/net8.0/MediaCodec
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/bin/Debug/net8.0/MediaCodec.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/bin/Debug/net8.0/MediaCodec.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/bin/Debug/net8.0/MediaCodec.dll
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/bin/Debug/net8.0/MediaCodec.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.dll
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/refint/MediaCodec.dll
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/MediaCodec.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/MediaManager/obj/Debug/net8.0/ref/MediaCodec.dll
