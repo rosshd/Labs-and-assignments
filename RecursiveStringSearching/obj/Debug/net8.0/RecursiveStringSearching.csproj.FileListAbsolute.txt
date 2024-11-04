@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/bin/Debug/net8.0/RecursiveStringSearching
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/bin/Debug/net8.0/RecursiveStringSearching.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/bin/Debug/net8.0/RecursiveStringSearching.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/bin/Debug/net8.0/RecursiveStringSearching.dll
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/bin/Debug/net8.0/RecursiveStringSearching.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.dll
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/refint/RecursiveStringSearching.dll
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/RecursiveStringSearching.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/RecursiveStringSearching/obj/Debug/net8.0/ref/RecursiveStringSearching.dll

@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/Store/bin/Debug/net8.0/Store
+/Users/rossdawson/Desktop/ross projects/classWork/Store/bin/Debug/net8.0/Store.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/Store/bin/Debug/net8.0/Store.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/Store/bin/Debug/net8.0/Store.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Store/bin/Debug/net8.0/Store.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/refint/Store.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/Store.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Store/obj/Debug/net8.0/ref/Store.dll

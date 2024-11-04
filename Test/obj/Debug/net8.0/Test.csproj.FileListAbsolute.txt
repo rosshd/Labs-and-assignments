@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/Test/bin/Debug/net8.0/Test
+/Users/rossdawson/Desktop/ross projects/classWork/Test/bin/Debug/net8.0/Test.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/Test/bin/Debug/net8.0/Test.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/Test/bin/Debug/net8.0/Test.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Test/bin/Debug/net8.0/Test.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/refint/Test.dll
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/Test.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/Test/obj/Debug/net8.0/ref/Test.dll

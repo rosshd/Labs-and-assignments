@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/bin/Debug/net8.0/BlueRayCollection
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/bin/Debug/net8.0/BlueRayCollection.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/bin/Debug/net8.0/BlueRayCollection.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/bin/Debug/net8.0/BlueRayCollection.dll
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/bin/Debug/net8.0/BlueRayCollection.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.dll
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/refint/BlueRayCollection.dll
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/BlueRayCollection.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/BlueRayCollection/obj/Debug/net8.0/ref/BlueRayCollection.dll

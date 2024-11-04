@@ -1,0 +1,15 @@
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/bin/Debug/net8.0/LegalFileWritingAndReading
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/bin/Debug/net8.0/LegalFileWritingAndReading.deps.json
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/bin/Debug/net8.0/LegalFileWritingAndReading.runtimeconfig.json
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/bin/Debug/net8.0/LegalFileWritingAndReading.dll
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/bin/Debug/net8.0/LegalFileWritingAndReading.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.AssemblyInfoInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.AssemblyInfo.cs
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.csproj.CoreCompileInputs.cache
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.sourcelink.json
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.dll
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/refint/LegalFileWritingAndReading.dll
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.pdb
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/LegalFileWritingAndReading.genruntimeconfig.cache
+/Users/rossdawson/Desktop/ross projects/classWork/LegalFileWritingAndReading/obj/Debug/net8.0/ref/LegalFileWritingAndReading.dll

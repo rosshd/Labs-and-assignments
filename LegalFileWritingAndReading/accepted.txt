@@ -1,0 +1,129 @@
+Case ID: 12
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $85000
+Plaintiff’s Citizenship: Alabama
+Defendant’s Citizenship: Vermont
+Originally filled in: Vermont
+==============================
+Case ID: 15
+Cause of action: Equal Protection Challenge
+Amount in Controversy: $115000
+Plaintiff’s Citizenship: Arizona
+Defendant’s Citizenship: Alabama
+Originally filled in: Alabama
+==============================
+Case ID: 17
+Cause of action: Equal Protection Challenge
+Amount in Controversy: $155000
+Plaintiff’s Citizenship: New Jersey
+Defendant’s Citizenship: Kansas
+Originally filled in: Kansas
+==============================
+Case ID: 21
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $190000
+Plaintiff’s Citizenship: South Carolina
+Defendant’s Citizenship: Kansas
+Originally filled in: Kansas
+==============================
+Case ID: 26
+Cause of action: Fair Labor Standard Act Claim
+Amount in Controversy: $150000
+Plaintiff’s Citizenship: Montana
+Defendant’s Citizenship: Utah
+Originally filled in: Utah
+==============================
+Case ID: 32
+Cause of action: Prisoner Civil Rights Claim
+Amount in Controversy: $180000
+Plaintiff’s Citizenship: Kansas
+Defendant’s Citizenship: Nevada
+Originally filled in: Nevada
+==============================
+Case ID: 37
+Cause of action: Prisoner Civil Rights Claim
+Amount in Controversy: $80000
+Plaintiff’s Citizenship: Alabama
+Defendant’s Citizenship: Mississippi
+Originally filled in: Mississippi
+==============================
+Case ID: 77
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $115000
+Plaintiff’s Citizenship: Oregon
+Defendant’s Citizenship: Montana
+Originally filled in: Montana
+==============================
+Case ID: 82
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $170000
+Plaintiff’s Citizenship: Minnesota
+Defendant’s Citizenship: Idaho
+Originally filled in: Idaho
+==============================
+Case ID: 87
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $150000
+Plaintiff’s Citizenship: Wyoming
+Defendant’s Citizenship: Louisiana
+Originally filled in: Louisiana
+==============================
+Case ID: 92
+Cause of action: Prisoner Civil Rights Claim
+Amount in Controversy: $155000
+Plaintiff’s Citizenship: Idaho
+Defendant’s Citizenship: Massachusetts
+Originally filled in: Massachusetts
+==============================
+Case ID: 94
+Cause of action: Equal Protection Challenge
+Amount in Controversy: $195000
+Plaintiff’s Citizenship: Alabama
+Defendant’s Citizenship: Idaho
+Originally filled in: Idaho
+==============================
+Case ID: 100
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $150000
+Plaintiff’s Citizenship: Alaska
+Defendant’s Citizenship: Hawaii
+Originally filled in: Hawaii
+==============================
+Case ID: 108
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $135000
+Plaintiff’s Citizenship: Colorado
+Defendant’s Citizenship: Missouri
+Originally filled in: Missouri
+==============================
+Case ID: 126
+Cause of action: Prisoner Civil Rights Claim
+Amount in Controversy: $125000
+Plaintiff’s Citizenship: Idaho
+Defendant’s Citizenship: Ohio
+Originally filled in: Ohio
+==============================
+Case ID: 138
+Cause of action: Fair Labor Standard Act Claim
+Amount in Controversy: $175000
+Plaintiff’s Citizenship: Delaware
+Defendant’s Citizenship: Vermont
+Originally filled in: Vermont
+==============================
+Case ID: 146
+Cause of action: Title IX Workplace Discrimination
+Amount in Controversy: $90000
+Plaintiff’s Citizenship: California
+Defendant’s Citizenship: North Carolina
+Originally filled in: North Carolina
+==============================
+Case ID: 164
+Cause of action: Equal Protection Challenge
+Amount in Controversy: $95000
+Plaintiff’s Citizenship: Colorado
+Defendant’s Citizenship: Delaware
+Originally filled in: Delaware
+==============================
+Case ID: 169
+Cause of action: Fair Labor Standard Act Claim
+Amount in Controver
